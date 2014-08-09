@@ -5,12 +5,9 @@
 		<title>Laravel PHP Framework</title>
 	</head>
 	<body>
-		<h1 class="intro"></h1>
+		<h1 class="intro">Hello, world!</h1>
 
 		<!-- Load Scripts -->
-		<script type="text/javascript" src="vendor/js/jquery.min.js"></script>
-		<script type="text/javascript" src="vendor/js/underscore.min.js"></script>
-		<script type="text/javascript" src="vendor/js/backbone.min.js"></script>
-		<script type="text/javascript" src="index.js"></script>
+		<script type="text/javascript" data-main="app.js" src="vendor/js/requirejs.min.js"></script>
 	</body>
 </html>
