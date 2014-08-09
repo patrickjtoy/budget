@@ -1,0 +1,4 @@
+budget
+======
+
+Simple budgeting app
